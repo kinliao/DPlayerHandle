@@ -133,7 +133,8 @@ class DPlayerHandle {
 
 	public function shortcode_buttons() {
 		if ( wp_script_is( 'quicktags' ) ) {
-			echo "<script type=\"text/javascript\">QTags.addButton('add_dplayer', 'dplayer', '[dplayer src=\"\"]');</script>";
+			echo "<script type=\"text/javascript\">QTags.addButton('add_dplayer', 'dplayer', '[video dplayer=\"true\" src=\"\"]');</script>";
+                        echo "<script type=\"text/javascript\">QTags.addButton('add_dplayer-2', 'dplayer-2', '[dplayer autoplay=\"false\" theme=\"#b7daff\" loop=\"false\" preload=\"auto\" src=\"\" poster=\"\" type=\"auto\" mutex=\"true\" iconsColor=\"#ffffff\"]');</script>";
 		}
 	}
 
