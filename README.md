@@ -35,9 +35,6 @@ More information: [https://kn007.net/topics/wordpress-blog-use-new-html5-video-p
 
 DIYgod, the author of DPlayer. [Github repo](https://github.com/MoePlayer/DPlayer)
 
-## About
-
-[kn007's blog](https://kn007.net) 
 
 ***
 
@@ -78,6 +75,4 @@ Video短代码调用方式举例：
 
 感谢DIYgod写的DPlayer，[Github项目地址](https://github.com/MoePlayer/DPlayer)
 
-## 关于作者
 
-[kn007的个人博客](https://kn007.net) 
